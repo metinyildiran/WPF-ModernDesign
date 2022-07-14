@@ -1,0 +1,16 @@
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\bin\Release\ModernDesign.exe.config
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\bin\Release\ModernDesign.exe
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\bin\Release\ModernDesign.pdb
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\ModernDesign.csproj.AssemblyReference.cache
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\ModernDesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\MainWindow.g.cs
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\App.g.cs
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\ModernDesign_MarkupCompile.cache
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\ModernDesign_MarkupCompile.lref
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\MainWindow.baml
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\ModernDesign.g.resources
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\ModernDesign.Properties.Resources.resources
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\ModernDesign.csproj.GenerateResource.cache
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\ModernDesign.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\ModernDesign.exe
+C:\Users\Metin\Documents\GitHub\WPF-ModernDesign\ModernDesign\ModernDesign\obj\Release\ModernDesign.pdb
